@@ -1,8 +1,8 @@
 # Experiment 4
 ## Aim - 
-Writing a C++ programs that demonstrate the use of bitwise operators.
+To study and implement C++ bitwise operators.
 ## Theory - 
-Bitwise operators are used to perform operations on individual bits of data. They are essential for tasks that involve low-level progrmming, such as manipulating binary data and performing bitwise arithmetic.
+Bitwise operators are used to perform operations on individual bits of data. They are essential for tasks that involve low-level programming, such as manipulating binary data and performing bitwise arithmetic.
 The common bitwise operators in C++ include AND (&), OR (|), XOR (^), NOT (~), left shift (<<), and right shift (>>).
 
 ### Bitwise AND (&)-
@@ -11,7 +11,7 @@ Performs a bitwise AND operation between two integers. If both the bits are 1 th
 
 ### Bitwise OR (|)-
 
-Performs a bitwise OR operation.If atleast one of the bits is 1 then the result of the operation is 1.
+Performs a bitwise OR operation. If at least one of the bits is 1 then the result of the operation is 1.
 
 ### Bitwise XOR (^)-
 
@@ -19,11 +19,11 @@ Performs a bitwise XOR (exclusive OR) operation. If both the bits are different 
 
 ### Bitwise NOT (~)-
 
-Performs a bitwise NOT operation, also known as bitwise complement. It inverts all the bits. The result of the bit is complimentary to itself, for example if a bit is 1 its result bit is 0.
+Performs a bitwise NOT operation, also known as a bitwise complement. It inverts all the bits. The result of the bit is complimentary to itself, for example, if a bit is 1 its result bit is 0.
 
 ### Left Shift (<<)-
 
-Shifts the bits of the left operand to the left by the number of positions specified by the right operand. New bits on the right are set to 0.
+Shifts the bits of the left operand to the left by the number of positions specified by the right operand. The new bits on the right are set to 0.
 
 ### Right Shift (>>)-
 
